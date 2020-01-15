@@ -1,0 +1,10 @@
+[package]
+name = "Q3"
+version = "0.1.0"
+authors = ["Imran Sabir <imransabbir@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+Q3_lib = {path= "D:/IoT/Assign7/Q3/Q3_lib"}
